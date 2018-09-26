@@ -1,0 +1,10 @@
+F:\gmly\LeetCalculator-master\LeetCalculator\bin\Debug\LeetCalculator.exe.config
+F:\gmly\LeetCalculator-master\LeetCalculator\bin\Debug\LeetCalculator.exe
+F:\gmly\LeetCalculator-master\LeetCalculator\bin\Debug\LeetCalculator.pdb
+F:\gmly\LeetCalculator-master\LeetCalculator\obj\Debug\AggCalculator.csprojAssemblyReference.cache
+F:\gmly\LeetCalculator-master\LeetCalculator\obj\Debug\LeetCalculator.Form1.resources
+F:\gmly\LeetCalculator-master\LeetCalculator\obj\Debug\LeetCalculator.Properties.Resources.resources
+F:\gmly\LeetCalculator-master\LeetCalculator\obj\Debug\AggCalculator.csproj.GenerateResource.cache
+F:\gmly\LeetCalculator-master\LeetCalculator\obj\Debug\AggCalculator.csproj.CoreCompileInputs.cache
+F:\gmly\LeetCalculator-master\LeetCalculator\obj\Debug\LeetCalculator.exe
+F:\gmly\LeetCalculator-master\LeetCalculator\obj\Debug\LeetCalculator.pdb
